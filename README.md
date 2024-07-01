@@ -1,6 +1,6 @@
 Información de contacto
   Correo: keepcodingjdb@gmail.com
-  telefono: +51 922322731
+  telefono: +51 930758364
 Perfil de LinkedIn: https://www.linkedin.com/in/jorgegilberthd%C3%ADazbravo/
 Estudios
   Big Data, Inteligencia Artificial & Machine Learning Full Stack Bootcamp. Durante este Bootcamp, 
